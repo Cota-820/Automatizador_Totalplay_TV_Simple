@@ -31,6 +31,6 @@ Se pueden cambiar las configuración del programa en el archivo "config.h". Las 
 El ejemplo del diagrama eléctrico se encuentra en "imagenes/diagrama.PNG". Es recomendable conectar el led IR al transistor y no directamente al GPIO, esto para tener una mayor corriente e iluminación. Si deseas conectarlo al GPIO, usa una resistencia de 220 Ω.   
 Una vez que se tenga corriendo apropiadamente, es conveniente dejarlo enfrente del decodificador o en un lugar donde el receptor pueda leer las señales del LED.   
 
-Existe una version mas robusta implementando una pantalla es este repositorio: [Automatizador_Totalplay_TV](https://github.com/Cota-820/Automatizador_Totalplay_TV)
+Existe una version mas robusta implementando una pantalla en este repositorio: [Automatizador_Totalplay_TV](https://github.com/Cota-820/Automatizador_Totalplay_TV)
 
 "Este proyecto no está afiliado a Totalplay. Úsalo bajo tu propia responsabilidad”.
